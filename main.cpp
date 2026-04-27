@@ -1,3 +1,4 @@
 #include "Warrior.h"
-void newFeature()
-int main() {}
+int main() {
+    // the main function
+}
